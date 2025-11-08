@@ -81,6 +81,6 @@ Clone este repositório.
 
 Certifique-se de ter as bibliotecas Python (pandas, matplotlib, seaborn) instaladas.
 
-Abra o arquivo AluraStoreBrasil (1).ipynb em um ambiente como Jupyter Notebook ou Google Colab.
+Abra o arquivo SAIMOM_AluraStoreBrasil.ipynb em um ambiente como Jupyter Notebook ou Google Colab.
 
 Execute as células na ordem apresentada para carregar os dados, realizar as análises e gerar os gráficos.
