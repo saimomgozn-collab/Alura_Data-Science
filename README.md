@@ -6,7 +6,7 @@ Visão Geral do Projeto
 
 Este projeto consiste em uma análise exploratória de dados (EDA) de quatro lojas da rede fictícia "AluraStore Brasil". O objetivo principal é fornecer uma recomendação de negócios baseada em dados para a gestão (Sr. João) sobre qual das quatro unidades deve ser vendida, visando a otimização das operações e a consolidação dos ativos mais rentáveis.
 
-O notebook AluraStoreBrasil (1).ipynb contém todo o processo de análise, desde a importação e limpeza dos dados até a geração de visualizações e o relatório final.
+O notebook SAIMOM_AluraStoreBrasil_.ipynb contém todo o processo de análise, desde a importação e limpeza dos dados até a geração de visualizações e o relatório final.
 
 Fonte dos Dados
 
